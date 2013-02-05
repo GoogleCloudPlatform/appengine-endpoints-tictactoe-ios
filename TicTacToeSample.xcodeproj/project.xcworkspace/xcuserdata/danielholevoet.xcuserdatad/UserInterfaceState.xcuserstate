@@ -1,0 +1,527 @@
+// !!! BINARY PROPERTY LIST WARNING !!!
+//
+// The pretty-printed property list below has been created
+// from a binary version on disk and should not be saved as
+// the ASCII format is a subset of the binary representation!
+//
+{	"$archiver" = "NSKeyedArchiver";
+	"$objects" = (
+		"$null",
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"D45F820B-24E1-47D6-B23D-D89AD5670EFF",
+		"IDEWorkspaceDocument",
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false, :false, :false, :false, :false, :false );
+			NS.objects = ( :false, :false, :false, :false, :false, :false, :false, :false );
+		},
+		"IDEWindowFrame",
+		"IDEOrderedWorkspaceTabControllers",
+		"IDEWorkspaceTabController_DDB93E53-BE7F-4FF1-B8B0-D1BAE12EBD11",
+		"IDEWindowInFullscreenMode",
+		"IDEWorkspaceWindowControllerUniqueIdentifier",
+		"IDEActiveWorkspaceTabController",
+		"IDEWindowToolbarIsVisible",
+		"IDEWindowTabBarIsVisible",
+		"{{20, 4}, {1400, 874}}",
+		{	"$class" = :false;
+			NS.objects = ( :false );
+		},
+		{	"$classes" = ( "NSArray", "NSObject" );
+			"$classname" = "NSArray";
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false, :false, :false, :false, :false, :false );
+			NS.objects = ( :false, :false, :false, :false, :false, :false, :false, :false );
+		},
+		"AssistantEditorsLayout",
+		"IDEShowNavigator",
+		"IDETabLabel",
+		"IDEWorkspaceTabControllerUtilityAreaSplitView",
+		"IDENavigatorArea",
+		"IDEWorkspaceTabControllerDesignAreaSplitView",
+		"IDEShowUtilities",
+		"IDEEditorArea",
+		0,
+		:true,
+		"TicTacToeSample.xcodeproj",
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		"DVTSplitViewItems",
+		{	"$class" = :false;
+			NS.objects = ( :false, :false );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"DVTIdentifier",
+		"DVTViewMagnitude",
+		"",
+		549,
+		{	"$classes" = ( "NSDictionary", "NSObject" );
+			"$classname" = "NSDictionary";
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		249,
+		{	"$classes" = ( "NSMutableArray", "NSArray", "NSObject" );
+			"$classname" = "NSMutableArray";
+		},
+		{	"$classes" = ( "NSMutableDictionary", "NSDictionary", "NSObject" );
+			"$classname" = "NSMutableDictionary";
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false );
+			NS.objects = ( :false, :false, :false );
+		},
+		"Xcode.IDEKit.Navigator.Issues",
+		"SelectedNavigator",
+		"Xcode.IDEKit.Navigator.Structure",
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false, :false, :false, :false, :false, :false, :false );
+			NS.objects = ( :false, :false, :false, :false, :false, :false, :false, :false, :false );
+		},
+		"IDEErrorFilteringEnabled",
+		"IDEVisibleRect",
+		"IDECollapsedFiles",
+		"IDEExpandedIssues",
+		"IDEShowsByType",
+		"IDESelectedNavigables",
+		"IDECollapsedTypes",
+		"IDERecentFilteringEnabled",
+		"IDECollapsedGroups",
+		:false,
+		"{{0, 0}, {259, 732}}",
+		{	"$class" = :false;
+			NS.objects = ( );
+		},
+		{	"$classes" = ( "NSMutableSet", "NSSet", "NSObject" );
+			"$classname" = "NSMutableSet";
+		},
+		{	"$class" = :false;
+			NS.objects = ( );
+		},
+		{	"$class" = :false;
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			NS.objects = ( :false, :false, :false );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"id",
+		"ty",
+		"TicTacToeSample",
+		"g",
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"TicTacToeSample.xcodeproj",
+		"f",
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false, :false );
+			NS.objects = ( :false, :false, :false, :false );
+		},
+		"documentLocations",
+		"subissues",
+		"type",
+		"fullMessage",
+		{	"$class" = :false;
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			documentURL = :false;
+			timestamp = :false;
+		},
+		"TicTacToeSample.xcodeproj/",
+		381710814,
+		{	"$classes" = ( "DVTDocumentLocation", "NSObject" );
+			"$classname" = "DVTDocumentLocation";
+		},
+		{	"$class" = :false;
+			NS.objects = ( );
+		},
+		"Retina 4 Support",
+		"Missing \"Default-568h@2x.png\" launch image",
+		"i",
+		{	"$class" = :false;
+			NS.objects = ( );
+		},
+		{	"$class" = :false;
+			NS.objects = ( );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false, :false, :false, :false, :false );
+			NS.objects = ( :false, :false, :false, :false, :false, :false, :false );
+		},
+		"IDEVisibleRect",
+		"IDEUnsavedDocumentFilteringEnabled",
+		"IDESCMStatusFilteringEnabled",
+		"IDEExpandedItemsTree",
+		"IDERecentDocumentFilteringEnabled",
+		"IDESelectedTree",
+		"IDENavigatorExpandedItemsBeforeFilteringTree",
+		"{{0, 0}, {259, 754}}",
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		"IDEValuesAsTree",
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		"TicTacToeSample",
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"",
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false );
+			NS.objects = ( :false, :false, :false );
+		},
+		"API",
+		"Client Library",
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			NS.keys = ( );
+			NS.objects = ( );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			NS.keys = ( );
+			NS.objects = ( );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			NS.objects = ( :false, :false, :false );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		260,
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		880,
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"IDEUtilitiesArea",
+		260,
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false, :false, :false, :false, :false, :false );
+			NS.objects = ( :false, :false, :false, :false, :false, :false, :false, :false );
+		},
+		"ShowDebuggerArea",
+		"IDEEditorMode_Standard",
+		"IDEShowEditor",
+		"EditorMode",
+		"IDEDefaultDebugArea",
+		"DefaultPersistentRepresentations",
+		"DebuggerSplitView",
+		"layoutTree",
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		"EditorLayout_PersistentRepresentation",
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		"Main",
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false );
+			NS.objects = ( :false, :false, :false );
+		},
+		"EditorLayout_StateSavingStateDictionaries",
+		"EditorLayout_Selected",
+		"EditorLayout_Geometry",
+		{	"$class" = :false;
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false, :false, :false, :false, :false );
+			NS.objects = ( :false, :false, :false, :false, :false, :false, :false );
+		},
+		"FileDataType",
+		"EditorState",
+		"ArchivableRepresentation",
+		"NavigableItemName",
+		"DocumentNavigableItemName",
+		"DocumentExtensionIdentifier",
+		"DocumentURL",
+		"com.apple.xcode.project",
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false, :false );
+			NS.objects = ( :false, :false, :false, :false );
+		},
+		"Xcode3ProjectEditor.sourceList.splitview",
+		"Xcode3ProjectEditorPreviousTargetEditorClass",
+		"Xcode3ProjectEditorSelectedDocumentLocations",
+		"Xcode3ProjectEditor_Xcode3TargetEditor",
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			NS.objects = ( :false, :false );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		162,
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		718,
+		"Xcode3TargetEditor",
+		{	"$class" = :false;
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			documentURL = :false;
+			selection = :false;
+			timestamp = :false;
+		},
+		"file://localhost/Users/danielholevoet/src/appengine-endpoints-tictactoe-ios/TicTacToeSample.xcodeproj/",
+		381710829,
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"Editor",
+		"Target",
+		"Xcode3TargetEditor",
+		{	"$classes" = ( "Xcode3ProjectDocumentLocation", "DVTDocumentLocation", "NSObject" );
+			"$classname" = "Xcode3ProjectDocumentLocation";
+		},
+		{	"$class" = :false;
+			NS.keys = ( );
+			NS.objects = ( );
+		},
+		{	"$class" = :false;
+			DocumentLocation = :false;
+			DomainIdentifier = :false;
+			IdentifierPath = :false;
+			IndexOfDocumentIdentifier = :false;
+		},
+		{	"$class" = :false;
+			NS.objects = ( );
+		},
+		9223372036854775807,
+		{	"$class" = :false;
+			documentURL = :false;
+			timestamp = :false;
+		},
+		{	"$classes" = ( "IDENavigableItemArchivableRepresentation", "NSObject" );
+			"$classname" = "IDENavigableItemArchivableRepresentation";
+		},
+		"TicTacToeSample.xcodeproj",
+		"TicTacToeSample.xcodeproj",
+		"Xcode.Xcode3ProjectSupport.EditorDocument.Xcode3Project",
+		{	"$class" = :false;
+			NS.base = :false;
+			NS.relative = :false;
+		},
+		{	"$classes" = ( "NSURL", "NSObject" );
+			"$classname" = "NSURL";
+		},
+		{	"$class" = :false;
+			NS.objects = ( :false );
+		},
+		"{{0, 0}, {880, 798}}",
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false, :false );
+			NS.objects = ( :false, :false, :false, :false );
+		},
+		"Variables",
+		"Console",
+		"LayoutMode",
+		"IDEDebugArea_SplitView",
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		"VariablesViewSelectedScope",
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		"ConsoleFilterMode",
+		1,
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			NS.objects = ( :false, :false );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"VariablesView",
+		440,
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"ConsoleArea",
+		439,
+		{	"$class" = :false;
+			NS.keys = ( );
+			NS.objects = ( );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			NS.objects = ( :false, :false );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"IDEEditor",
+		203,
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"IDEDebuggerArea",
+		115,
+		{	"$class" = :false;
+			geniusEditorContextNode = :false;
+			primaryEditorContextNode = :false;
+			rootLayoutTreeNode = :false;
+		},
+		{	"$class" = :false;
+			children = :false;
+			contentType = 1;
+			documentArchivableRepresentation = :false;
+			orientation = 0;
+			parent = :false;
+		},
+		{	"$class" = :false;
+			DocumentLocation = :false;
+			DomainIdentifier = :false;
+			IdentifierPath = :false;
+			IndexOfDocumentIdentifier = :false;
+		},
+		9223372036854775807,
+		{	"$class" = :false;
+			children = :false;
+			contentType = 0;
+			documentArchivableRepresentation = :false;
+			orientation = 0;
+			parent = :false;
+		},
+		{	"$class" = :false;
+			NS.objects = ( :false );
+		},
+		{	"$classes" = ( "IDEWorkspaceTabControllerLayoutTreeNode", "NSObject" );
+			"$classname" = "IDEWorkspaceTabControllerLayoutTreeNode";
+		},
+		{	"$classes" = ( "IDEWorkspaceTabControllerLayoutTree", "NSObject" );
+			"$classname" = "IDEWorkspaceTabControllerLayoutTree";
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false, :false, :false, :false, :false, :false, :false );
+			NS.objects = ( :false, :false, :false, :false, :false, :false, :false, :false, :false );
+		},
+		"BreakpointsActivated",
+		"DefaultEditorStatesForURLs",
+		"DebuggingWindowBehavior",
+		"ActiveScheme",
+		"ActiveRunDestination",
+		"DocumentWindows",
+		"RecentEditorDocumentURLs",
+		"AppFocusInMiniDebugging",
+		"MiniDebuggingConsole",
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			NS.base = :false;
+			NS.relative = :false;
+		},
+		{	"$class" = :false;
+			NS.keys = ( :false, :false, :false, :false );
+			NS.objects = ( :false, :false, :false, :false );
+		},
+		"Xcode3TargetEditor",
+		{	"$class" = :false;
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			documentURL = :false;
+			selection = :false;
+			timestamp = :false;
+		},
+		381710829,
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"Xcode3TargetEditor",
+		{	"$class" = :false;
+			NS.keys = ( :false );
+			NS.objects = ( :false );
+		},
+		"IDENameString",
+		"TicTacToeSample",
+		{	"$class" = :false;
+			NS.keys = ( :false, :false );
+			NS.objects = ( :false, :false );
+		},
+		"IDEDeviceLocation",
+		"IDEDeviceArchitecture",
+		"dvtdevice-iphonesimulator:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.0.sdk-iPhone",
+		"i386",
+		{	"$class" = :false;
+			NS.objects = ( :false );
+		},
+		{	"$class" = :false;
+			NS.objects = ( :false );
+		},
+	);
+	"$top" = { State = :false; };
+	"$version" = 100000;
+}
