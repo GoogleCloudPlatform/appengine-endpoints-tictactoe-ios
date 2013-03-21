@@ -97,6 +97,7 @@ NSString * const statusStrings[] = {
         // Authentication succeeded
         signedIn = true;
         [[self tictactoeService] setAuthorizer:auth];
+        auth.authorizationTokenKey = @"id_token";
         [userLabel setText:auth.userEmail];
         [signInButton setTitle:@"Sign out"];
         [victory setText:@""];
@@ -164,8 +165,6 @@ NSString * const statusStrings[] = {
 
 - (void)sendResultToServer:(int)status {
     GTLServiceTictactoe *service = [self tictactoeService];
-    GTMOAuth2Authentication *auth = (GTMOAuth2Authentication *)service.authorizer;
-    auth.accessToken = [auth.parameters objectForKey:@"id_token"];
 
     GTLTictactoeScore *score = [GTLTictactoeScore alloc];
     [score setOutcome:statusStrings[status]];
@@ -178,9 +177,6 @@ NSString * const statusStrings[] = {
 
 - (void)queryScores {
     GTLServiceTictactoe *service = [self tictactoeService];
-    GTMOAuth2Authentication *auth = (GTMOAuth2Authentication *)service.authorizer;
-    auth.accessToken = [auth.parameters objectForKey:@"id_token"];
-
     GTLQueryTictactoe *query = [GTLQueryTictactoe queryForScoresList];
 
     [service executeQuery:query completionHandler:^(GTLServiceTicket *ticket, GTLTictactoeScores *object, NSError *error) {
